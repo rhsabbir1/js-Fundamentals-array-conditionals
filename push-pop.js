@@ -19,4 +19,4 @@ console.log(actors)
 var vowel = ['a','e','i','o', 'u']
 vowel.unshift('k')
 vowel.shift()
-console.log(vuwel)
+console.log(vowel)
