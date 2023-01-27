@@ -51,6 +51,8 @@ var scors = sajid;
 //     console.log('Your Gread F')
 // }
 
+
+// Practice Problem 3
 var number1 = 13;
 var number2 = 79;
 var number3 = 45;
@@ -76,4 +78,18 @@ else if (number2 > number1){
 
 else{
     console.log('Number 3 is largest')
+}
+
+
+// Practice Problem 3
+
+var a = 9;
+var b = 8
+var c = 9
+
+if((a==b && a==c) || (b==c && b==a) || c==a  ){
+    console.log("This is triangle")
+}
+else{
+    console.log('This is not triangl')
 }
