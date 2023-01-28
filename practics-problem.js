@@ -54,8 +54,8 @@ var scors = sajid;
 
 // Practice Problem 3
 var number1 = 13;
-var number2 = 79;
-var number3 = 45;
+var number2 = 9;
+var number3 = 5;
 
 
 if(number1 > number2){
@@ -83,11 +83,11 @@ else{
 
 // Practice Problem 3
 
-var a = 9;
-var b = 8
-var c = 9
+var a = 2;
+var b = 2
+var c = 2
 
-if((a==b && a==c) || (b==c && b==a) || c==a  ){
+if(a==b || b==c || a==c){
     console.log("This is triangle")
 }
 else{
